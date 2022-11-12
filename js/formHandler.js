@@ -32,7 +32,8 @@ $(function()
 					
 					formData[fieldID] = fieldData;		
 				});
-	
+
+
 				$.ajax({
 		        	url: processorFile,
 		    		type: "POST",

@@ -1438,7 +1438,9 @@ img {
 .thumbnail>img {
     display: block;
     max-width: 100%;
-    height: auto
+    height: 270px;
+    width: 310px;
+    margin:0 auto;
 }
 
 .img-rounded {
@@ -7796,7 +7798,9 @@ button.close {
 .center-block {
     display: block;
     margin-right: auto;
-    margin-left: auto
+    margin-left: auto;
+    width: 100px;
+    height: 100px;
 }
 
 .pull-right {

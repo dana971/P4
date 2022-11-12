@@ -297,6 +297,7 @@ a:hover {
     max-height: 200px;
     margin: 0 5px 0 0;
     display: inline;
+    width: 220px;
 }
 
 .navbar-brand img[src$=svg] {
@@ -640,7 +641,7 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 400;
-    color: #666 !important;
+    color: #000000 !important;
 }
 
 .container {
@@ -725,7 +726,7 @@ h4 {
 }
 
 .white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .portfolio-thumb {
@@ -769,7 +770,7 @@ h4 {
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
