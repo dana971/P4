@@ -669,6 +669,20 @@ a {
 p {
     font-size: 12px;
 }
+p.catchphrase{
+    font-size: 22px;
+}
+
+p.citation {
+    font-size:20px;
+    font-style: italic;
+    line-height: 22px;
+}
+
+p.citation span{
+    color:RGB(70, 70, 70);
+    display: block;
+}
 
 .tight-width-whitespace {
     max-width: 600px;
