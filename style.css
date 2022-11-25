@@ -668,7 +668,7 @@ a {
 }
 
 p {
-    font-size: 12px;
+    font-size: 14px;
 }
 p.catchphrase{
     font-size: 22px;
@@ -794,7 +794,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .ltc-white:hover {
